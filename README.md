@@ -1,1 +1,2 @@
-# esercizi-fork-kamal-
+# esercizi-fork-
+esercizi pre verifica
